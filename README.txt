@@ -1,3 +1,6 @@
+************************************
+************************************
+
 This has the cpp_py package.
 
 Please do not distribute.
@@ -32,3 +35,6 @@ Simplecpp directory contains following subdirectories:
                  to be compiled and executed.
 
 -----
+
+*************************************
+*************************************
