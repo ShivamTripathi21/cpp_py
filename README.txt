@@ -5,8 +5,8 @@ This has the cpp_py package.
 
 Please do not distribute.
 
-Instructions for installing the simplecpp package:
-1. Copy this directory (simplecpp) somewhere.
+Instructions for installing the cpp_py package:
+1. Copy this directory (cpp_py) somewhere.
 2. Change the directory to this, and execute
    ./configure.sh
 
